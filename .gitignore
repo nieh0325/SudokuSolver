@@ -1,0 +1,25 @@
+# 虛擬環境
+venv/
+
+# Python 快取
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Debug 輸出（程式執行時自動產生）
+debug/
+
+# 答案輸出
+答案/
+
+# IDE / 編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系統檔案
+.DS_Store
+Thumbs.db
