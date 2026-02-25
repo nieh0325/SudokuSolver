@@ -70,3 +70,4 @@ SudokuSolver/
 *   `src/renderer.py`: 負責將解題器算出的答案重新寫回圖片中，精準疊加回原圖上。
 *   `tools/`: 開發過程中使用的除錯工具腳本。
 *   `requirements.txt`: 紀錄 Python 相關的第三方依賴套件清單。
+# SudokuSolver
